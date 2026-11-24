@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "recruiter-ready",
+  "description": "Make your GitHub projects job-ready.",
+  "owner": { "name": "Ogundipe Peter Temiloluwa", "url": "https://github.com/mb1720827-ui" },
+  "plugins": [
+    {
+      "name": "recruiter-ready",
+      "description": "Repo audit with evidence, ranked fixes, honest resume bullets and interview prep.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

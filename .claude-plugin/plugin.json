@@ -1,0 +1,10 @@
+{
+  "name": "recruiter-ready",
+  "description": "Audit a project for what recruiters look for, rank fixes by hiring impact, write honest resume bullets and prepare to explain the code in interviews.",
+  "version": "0.1.0",
+  "author": { "name": "Ogundipe Peter Temiloluwa", "url": "https://github.com/mb1720827-ui" },
+  "homepage": "https://github.com/mb1720827-ui/recruiter-ready",
+  "repository": "https://github.com/mb1720827-ui/recruiter-ready",
+  "license": "MIT",
+  "keywords": ["portfolio", "resume", "job-search", "github", "interview"]
+}

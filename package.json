@@ -1,0 +1,16 @@
+{
+  "name": "recruiter-ready",
+  "version": "0.1.0",
+  "description": "Audit a GitHub project for what recruiters and hiring managers look for: live demo, README, tests, CI, design notes and committed secrets. Also a Claude Code skill that writes honest resume bullets and interview prep.",
+  "type": "module",
+  "bin": { "recruiter-ready": "./skills/recruiter-ready/scripts/audit.mjs" },
+  "exports": { ".": "./skills/recruiter-ready/scripts/audit.mjs" },
+  "files": ["skills", "README.md", "LICENSE"],
+  "scripts": { "test": "node --test test/" },
+  "keywords": ["portfolio", "resume", "github", "recruiter", "job-search", "claude-code", "skills", "vibe-coding", "secrets"],
+  "author": "Ogundipe Peter Temiloluwa",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/mb1720827-ui/recruiter-ready.git" },
+  "homepage": "https://github.com/mb1720827-ui/recruiter-ready#readme",
+  "engines": { "node": ">=20" }
+}
